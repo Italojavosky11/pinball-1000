@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: f01fa9445dc3fbd4faef70b91bd52af6
+guid: 831f8961adb5cb44c88f01cff1936ef2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 611997643965123749
-    second: bumper (1)_0
+      213: 5294473290084108464
+    second: molaygyg_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bumper (1)_0
+      name: molaygyg_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 129
-        height: 129
+        width: 111
+        height: 564
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5accaeb5d904e7800800000000000000
-      internalID: 611997643965123749
+      spriteID: 0b8c140f76fb97940800000000000000
+      internalID: 5294473290084108464
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      bumper (1)_0: 611997643965123749
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
